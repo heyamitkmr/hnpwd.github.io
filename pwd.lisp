@@ -282,6 +282,13 @@
   :hnuid "philip1209"
   :bio "Writes about crafting digital tools.")
 
+ (:name "Rhys Johns"
+  :site "https://spikepuppet.io/"
+  :feed "https://spikepuppet.io/rss.xml"
+  :about "https://spikepuppet.io/posts/about-me/"
+  :hnuid "spikepuppet"
+  :bio "Writes and rants about technology, startups and tools I find fun.")
+
  (:name "Sam Broner"
   :site "https://sambroner.com/"
   :feed "https://sambroner.com/rss.xml"
