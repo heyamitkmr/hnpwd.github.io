@@ -8,7 +8,7 @@
   :about "https://www.evalapply.org/about.html"
   :now "https://www.evalapply.org/now.html"
   :hnuid "adityaathalye"
-  :bio "Your next-door bitemporal DB-curious, Bash enjoyer, explainer and speaker.")
+  :bio "Words code talks 'n demos with Clojure, Bash and Bitemporal DB SaaS.")
 
  (:name "Alan Grow"
   :site "https://alangrow.com/"
