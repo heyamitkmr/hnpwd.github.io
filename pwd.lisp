@@ -49,6 +49,13 @@
   :hnuid "arulpugazh"
   :bio "Canadian ML engineer and founder of TensorHub Solutions Inc.")
 
+ (:name "Barada"
+  :site "https://mercurialsolo.github.io/"
+  :blog "https://mercurialsolo.github.io/posts/"
+  :feed "https://mercurialsolo.github.io/index.xml"
+  :hnuid "mercurialsolo"
+  :bio "Writes about AI product development, model-adjacent systems and technology.")
+
  (:name "Beast Hacker"
   :site "https://beasthacker.com/"
   :about "https://beasthacker.com/about.html"
