@@ -202,7 +202,7 @@
   :site "https://marscalendar.space"
   :about "https://marscalendar.space/about.html"
   :hnuid "d_silin"
-  :bio "Space researcher and software developer")
+  :bio "Space researcher and software developer.")
 
  (:name ""
   :site ""
