@@ -152,8 +152,8 @@
   :feed "https://blog.flurdy.com/feed.xml"
   :about "https://blog.flurdy.com/about/"
   :hnuid "flurdy"
-  :bio "AKA Flurdy. Opinionated software engineer/architect/manager.")
- 
+  :bio "Opinionated software engineer/architect/manager.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
