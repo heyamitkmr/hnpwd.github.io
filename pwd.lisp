@@ -81,7 +81,7 @@
   :site "https://dustinbrett.com/"
   :feed "https://dustinbrett.com/rss.xml"
   :hnuid "DustinBrett"
-  :bio "Self-Taught Software Engineer, Traveler, Father & Husband")
+  :bio "Self-Taught Software Engineer, Traveler, Father & Husband.")
  
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
