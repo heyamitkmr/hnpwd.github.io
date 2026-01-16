@@ -3,14 +3,15 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Thu, 15 Jan 2026 21:57:24 UTC</dateModified>
+    <dateModified>Fri, 16 Jan 2026 00:01:04 UTC</dateModified>
   </head>
   <body>
-    <!-- 50 entries -->
+    <!-- 53 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Alan Grow" title="Alan Grow" xmlUrl="https://alangrow.com/blog/atom.xml" htmlUrl="https://alangrow.com/"/>
       <outline type="rss" text="Alex Lance" title="Alex Lance" xmlUrl="https://alexlance.blog/feed.xml" htmlUrl="https://alexlance.blog/"/>
+      <outline type="rss" text="Alex Tiniuc" title="Alex Tiniuc" xmlUrl="https://tiniuc.com/atom.xml" htmlUrl="https://tiniuc.com/"/>
       <outline type="rss" text="Andrew Montalenti" title="Andrew Montalenti" xmlUrl="https://amontalenti.com/feed" htmlUrl="https://amontalenti.com/"/>
       <outline type="rss" text="Anthony Bonkoski" title="Anthony Bonkoski" xmlUrl="https://xorvoid.com/rss.xml" htmlUrl="https://xorvoid.com/"/>
       <outline type="rss" text="Artyom Bologov" title="Artyom Bologov" xmlUrl="https://aartaka.me/rss.xml" htmlUrl="https://aartaka.me/"/>
@@ -23,6 +24,7 @@
       <outline type="rss" text="Chris Morgan" title="Chris Morgan" xmlUrl="https://chrismorgan.info/feed.xml" htmlUrl="https://chrismorgan.info/"/>
       <outline type="rss" text="Ciju Cherian" title="Ciju Cherian" xmlUrl="https://ciju.in/rss.xml" htmlUrl="https://ciju.in/"/>
       <outline type="rss" text="Damian Walsh" title="Damian Walsh" xmlUrl="https://damianwalsh.co.uk/feed.xml" htmlUrl="https://damianwalsh.co.uk/"/>
+      <outline type="rss" text="Dominic Mason" title="Dominic Mason" xmlUrl="https://domson.dev/atom.xml" htmlUrl="https://domson.dev/"/>
       <outline type="rss" text="Doug Slater" title="Doug Slater" xmlUrl="https://www.slater.dev/atom.xml" htmlUrl="https://www.slater.dev/"/>
       <outline type="rss" text="Dustin Brett" title="Dustin Brett" xmlUrl="https://dustinbrett.com/rss.xml" htmlUrl="https://dustinbrett.com/"/>
       <outline type="rss" text="Gavin D. Howard" title="Gavin D. Howard" xmlUrl="https://gavinhoward.com/index.xml" htmlUrl="https://gavinhoward.com/"/>
@@ -56,6 +58,7 @@
       <outline type="rss" text="Suriya Ganesh Ayyamperumal" title="Suriya Ganesh Ayyamperumal" xmlUrl="https://suriya.cc/index.xml" htmlUrl="https://suriya.cc/"/>
       <outline type="rss" text="Susam Pal" title="Susam Pal" xmlUrl="https://susam.net/feed.xml" htmlUrl="https://susam.net/"/>
       <outline type="rss" text="Tony Alicea" title="Tony Alicea" xmlUrl="https://tonyalicea.dev/feed/feed.xml" htmlUrl="https://tonyalicea.dev/"/>
+      <outline type="rss" text="Vijeth P H" title="Vijeth P H" xmlUrl="https://vijethph.github.io/ruminations/rss.xml" htmlUrl="https://vijethph.github.io/"/>
       <outline type="rss" text="WillAbides" title="WillAbides" xmlUrl="https://willabides.com/index.xml" htmlUrl="https://willabides.com/"/>
       <outline type="rss" text="Xe Iaso" title="Xe Iaso" xmlUrl="https://xeiaso.net/blog.rss" htmlUrl="https://xeiaso.net/"/>
     </outline>
